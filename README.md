@@ -8,6 +8,7 @@ This project implements a fake news detection system leveraging Word2Vec embeddi
 *Real news* (class = 1)
 
 Remark: The model is trained on a publicly available dataset of fake and real news articles.
+
 ---
 
 ## Features
