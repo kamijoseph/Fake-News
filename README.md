@@ -40,6 +40,7 @@ LSTM-based classification
 Accuracy
 
 Precision, recall, and F1-score
+
 ---
 
 ## Model artifacts:
@@ -57,6 +58,7 @@ https://raw.githubusercontent.com/laxmimerit/fake-real-news-dataset/main/data/Tr
 https://raw.githubusercontent.com/laxmimerit/fake-real-news-dataset/main/data/Fake.csv
 
 The datasets above includes text, title, and subject fields, later processed and labeled for binary classification.
+
 ---
 
 ## Results
@@ -66,6 +68,7 @@ The LSTM model demonstrates strong performance in distinguishing fake vs real ne
 Evaluation metrics include accuracy, precision, recall, and F1-score.
 
 WordCloud visualizations highlight the most frequent words in fake and real news articles.
+
 ---
 
 ### License
