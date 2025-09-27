@@ -1,0 +1,17 @@
+pandas
+numpy
+matplotlib
+seaborn
+nltk
+re
+pickle
+tensorflow
+scikit-learn
+spacy
+textblob
+wordcloud
+gensim
+beautifulsoup
+kgptalkie
+multiprocessing
+googletrans
